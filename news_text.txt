@@ -1,16 +1,11 @@
 ¡Bienvenidos todos a la primera entrega de Nebula!
 Gracias por descargar el proyecto y confiar en nosotros. Esperamos que toda la estancia dentro de Nebula sea la mejor posible.
-
 · Bueno, empezando por lo importante:
-
 1. ¿Qué es este tablón de anuncios?
 - Para las personas que no quieran leer el Discord, buscamos otra solución mediante el propio launcher del juego para que todo el mundo esté lo más actualizado posible. En esta ocasión, es para explicaos cómo funciona Nebula en todo momento, tanto el servidor en sí como su progreso.
-
 2. Si necesito ayuda, ¿cómo contacto con vosotros?
 - Hay un botón afuera de este panel donde pone Discord (o bien el logo del mismo) donde tendrá acceso a canales de soporte y ayuda. Este panel sólo se usará para actualizaciones por lo que no podrá escribir ni hablar por aquí. Intentaremos contestarle lo más antes posible, y por favor, sugerimos que los problemas relacionados con Nebula que sean más complejos se comuniquen al Staff.
-
 3. Si necesito un botón que ha sido eliminado por la administración, ¿cómo puedo restaurarlo?
 - Preferiblemente, contacte al servicio de soporte para poder ayudarte. Si sabe mucho de los mods usados o quiere desactivar este panel customizado, desabilite o elimine FancyMenu del modpack.
-
 Gracias de nuevo por leer y por confiar en nosotros, esperamos brindaros lo mejor que podamos!
 - Administración de Nebula
