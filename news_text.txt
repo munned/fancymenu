@@ -7,7 +7,7 @@
 - Seguiré pagando el servidor yo, nadie se necesita para ello, a menos que se diga lo contrario.
 
 3. **Actualización al Modpack**
-· Se meterán bastantes mods al modpack además de actualizar algunos YA dentro:
+・ Se meterán bastantes mods al modpack además de actualizar algunos YA dentro:
 - Se ha añadido animaciones a todos los modpacks.
 - Se ha traducido el mod "Incapacitated"
 - Se ha solventado el problema de las mochilas y las tumbas
@@ -18,5 +18,5 @@
 - El **PRIMER EVENTO** (no comunitario) de Nebula, será el sábado 2 de Julio, es decir <t:1754146800:R>.
 - Y, el primer evento comunitario de Nebula, estará activo a partir del viernes 1 de Julio, es decir <t:1754060400:R>
 
-· Gracias a todos por el apoyo una vez más,
+・ Gracias a todos por el apoyo una vez más,
 - jsee
