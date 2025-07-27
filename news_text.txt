@@ -1,8 +1,11 @@
 - Me habéis hecho cambiar de opinión, y Nebula seguirá otro mes abierto.
+
 1. **Motivación al tope**
 - El cariño que ha recibido el servidor y las opiniones vuestras desde el anuncio de que cerraba, me han hecho cambiar de opinión y enfocarme más aún al servidor. Para los que me conocen, es algo de conocer, soy bastante indeciso y, suele pasar. He visto que aún hay ganas, y sería injusto no dar una última oportunidad a algo en lo que he puesto tanto tiempo y sudor.
+
 2. **Financiación del proyecto**
 - Seguiré pagando el servidor yo, nadie se necesita para ello, a menos que se diga lo contrario.
+
 3. **Actualización al Modpack**
 > Se meterán bastantes mods al modpack además de actualizar algunos YA dentro:
 - Se ha añadido animaciones a todos los modpacks.
@@ -10,6 +13,7 @@
 - Se ha solventado el problema de las mochilas y las tumbas
 - Se ha añadido el mod "Chisels & Bits"
 - Se ha optimizado aún más el modpack
+
 4. **Preparad las palomitas...**
 - El **PRIMER EVENTO** (no comunitario) de Nebula, será el sábado 2 de Julio, es decir <t:1754146800:R>.
 - Y, el primer evento comunitario de Nebula, estará activo a partir del viernes 1 de Julio, es decir <t:1754060400:R>
